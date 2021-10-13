@@ -1,2 +1,2 @@
 Hello!
-Hello again!
+Hello again! It's 12:30.
